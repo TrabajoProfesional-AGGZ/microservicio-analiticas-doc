@@ -2,7 +2,7 @@
 
 Microservicio que gestiona las analíticas y métricas de "SocioUnido".
 
-📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-analiticas/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-analiticas-doc/)**
 
 ## Licencia ⚖️
 
