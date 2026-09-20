@@ -10,17 +10,17 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 
 ## Resumen del repositorio
 
-* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-52-blue)
-* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-21-purple)
+* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-61-blue)
+* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-22-purple)
 * **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-14-green)
 
 ## Composición del código (Lenguajes)
 
 Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* 🔵 **Python:** 98.5%
-* 🟤 **Mako:** 0.7%
-* 🐳 **Dockerfile:** 0.6%
+* 🔵 **Python:** 99.1%
+* 🟤 **Mako:** 0.4%
+* 🐳 **Dockerfile:** 0.4%
 * 🟠 **HTML:** 0.1%
 * 🔴 **Ruby:** 0.1%
 
@@ -30,7 +30,7 @@ A continuación se detalla la participación de cada miembro del equipo basándo
 
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
-| **Ghosn, Lautaro Gabriel** (`LGhosn`) | 18 | 1.269 | 186 |
+| **Ghosn, Lautaro Gabriel** (`LGhosn`) | 27 | 3.245 | 376 |
 | **Ascencio, Felipe Santino** (`FelipeAscencio`) | 18 | 1.109 | 107 |
 | **Zielonka, Axel** (`axel-zielonka`) | 11 | 1.246 | 48 |
 | **Guerrero, Martín** (`marttinguerrero`) | 5 | 679 | 17 |
